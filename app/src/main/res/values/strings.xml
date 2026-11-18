@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ah.Mantap</string>
+    <string name="nav_menu">Menu</string>
+    <string name="nav_prices">Harga &amp; Promo</string>
+    <string name="nav_orders">Pesanan</string>
+    <string name="nav_profile">Profil</string>
+    <string name="hero_tagline">Buahnya Segar, Sausnya Ah... Mantap!</string>
+    <string name="hero_subtitle">Buah potong ramah mahasiswa lengkap dengan Saus Lotis, Bumbu Bangkok, dan Saus Mayo.</string>
+    <string name="cart_title">Keranjang Pesanan</string>
+    <string name="checkout_title">Pesan &amp; Bayar Pre-Order</string>
+    <string name="track_orders_title">Lacak Pesanan</string>
+    <string name="profile_title">Profil &amp; Alamat Saya</string>
+    <string name="edit_prices_title">Ubah Harga &amp; Promo</string>
+</resources>

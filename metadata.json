@@ -1,0 +1,6 @@
+{
+  "name": "Ah.Mantap",
+  "description": "Aplikasi pemesanan buah potong segar Ah.Mantap dengan Saus Lotis, Bumbu Bangkok, dan Saus Mayo serta pre-order otomatis via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
